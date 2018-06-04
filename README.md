@@ -12,7 +12,7 @@ These scripts are made available to facilitate reproducibility of our research. 
 
 [config.sh](https://github.com/garridoo/rhizobiales/blob/master/config.sh)
 
-Configuration script containing https://github.com/garridoo/rhizobiales/blob/master/s to scripts and data as well as parameters for custom scripts and third-party tools.
+Configuration script containing paths to scripts and data as well as parameters for custom scripts and third-party tools.
 
 [assembly.functions.sh](https://github.com/garridoo/rhizobiales/blob/master/assembly.functions.sh)
 
