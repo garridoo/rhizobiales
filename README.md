@@ -6,6 +6,8 @@ garridoo@mpipz.mpg.de
 
 These scripts are made available to facilitate reproducibility of our research. If you re-use any or part of this code, please reference with comments and cite our paper! Raw data and intermediate results necesary to run these scripts can be downloaded [here](http://www.mpipz.mpg.de/R_scripts).
 
+---------------------------
+
 ### Scripts used for processing data, creating the figures and performing the statistical analysis reported in the manuscript.
 
 #### Whole-genome assembly, quality control, gene calling, annotation and phylogeny inference:
@@ -62,7 +64,7 @@ Auxiliary functions to perform meta-analysis of 16S data.
 
 [config_16s.sh](https://github.com/garridoo/rhizobiales/blob/master/config_16s.sh)
 
-Configuration script containing https://github.com/garridoo/rhizobiales/blob/master/s to scripts and data as well as parameters for custom scripts and third-party tools.
+Configuration script containing paths to scripts and data as well as parameters for custom scripts and third-party tools.
 
 [bulgarelli.sh](https://github.com/garridoo/rhizobiales/blob/master/bulgarelli.sh)
 
