@@ -66,27 +66,27 @@ Configuration script containing https://github.com/garridoo/rhizobiales/blob/mas
 
 [bulgarelli.sh](https://github.com/garridoo/rhizobiales/blob/master/bulgarelli.sh)
 
-Script to pre-process data from Schlaeppi et al., 2012 (Arabidopsis root and rhizosphere).
+Script to pre-process data from Schlaeppi *et al.*, 2012 (Arabidopsis root and rhizosphere).
 
 [schlaeppi_2014.sh](https://github.com/garridoo/rhizobiales/blob/master/schlaeppi_2014.sh)
 
-Script to pre-process data from Schlaeppi et al., 2014 (Arabidopsis and relatives root and rhizosphere.
+Script to pre-process data from Schlaeppi *et al.*, 2014 (Arabidopsis and relatives root and rhizosphere.
 
 [bulgarelli_2015.sh](https://github.com/garridoo/rhizobiales/blob/master/bulgarelli_2015.sh)
 
-Script to pre-process data from Schlaeppi et al., 2015 (Barley root and rhizosphere).
+Script to pre-process data from Schlaeppi *et al.*, 2015 (Barley root and rhizosphere).
 
 [bai_2015_root.sh](https://github.com/garridoo/rhizobiales/blob/master/bai_2015_root.sh)
 
-Script to pre-process data from Bai et al., 2015 (Arabidopsis root).
+Script to pre-process data from Bai *et al.*, 2015 (Arabidopsis root).
 
 [bai_2015_leaf.sh](https://github.com/garridoo/rhizobiales/blob/master/bai_2015_leaf.sh)
 
-Script to pre-process data from Bai et al., 2014 (Arabidopsis leaf).
+Script to pre-process data from Bai *et al.*, 2014 (Arabidopsis leaf).
 
 [zgadzaj_2016.sh](https://github.com/garridoo/rhizobiales/blob/master/zgadzaj_2016.sh)
 
-Script to pre-process data from Zgadzaj et al., 2016 (Lotus root, rhizosphere and nodules).
+Script to pre-process data from Zgadzaj *et al.*, 2016 (Lotus root, rhizosphere and nodules).
 
 [normalize_otu_table.R](https://github.com/garridoo/rhizobiales/blob/master/normalize_otu_table.R)
 
